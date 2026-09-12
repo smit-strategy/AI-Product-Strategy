@@ -1,0 +1,7 @@
+echo "# AI-Product-Strategy" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/smit-strategy/AI-Product-Strategy.git
+git push -u origin main
